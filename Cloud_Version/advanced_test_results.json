@@ -1,0 +1,636 @@
+{
+  "system_a_local": [
+    {
+      "query": "healthy Mediterranean options",
+      "category": "Semantic Similarity",
+      "explanation": "System should identify dishes with olive oil, fresh vegetables, lean proteins typical of Mediterranean diet",
+      "success": true,
+      "answer": "The Mediterranean diet! Known for its emphasis on whole, unprocessed foods and a balanced mix of nutrients, it's an excellent choice for those looking to adopt a healthier eating pattern. Here are some healthy Mediterranean options:\n\n**Fruits:**\n\n1. Figs (rich in fiber, potassium, and antioxidants)\n2. Grapes (high in vitamin C, polyphenols, and antioxidants)\n3. Lemons (excellent source of vitamin C and flavonoids)\n4. Pomegranates (packed with vitamins, minerals, and antioxidants)\n\n**Vegetables:**\n\n1. Leafy greens like spinach, kale, and collard greens (rich in iron, calcium, and vitamins A, C, and K)\n2. Broccoli (high in vitamin C, fiber, and cancer-fighting compounds)\n3. Tomatoes (excellent source of lycopene, an antioxidant that reduces cancer risk)\n4. Bell peppers (packed with vitamin C, vitamin B6, and antioxidants)\n\n**Protein sources:**\n\n1. Fatty fish like salmon, tuna, and sardines (rich in omega-3 fatty acids and protein)\n2. Grilled chicken or turkey breast (lean protein sources rich in vitamins and minerals)\n3. Legumes like lentils, chickpeas, and fava beans (high in fiber, protein, and various minerals)\n4. Greek yogurt (excellent source of probiotics, calcium, and protein)\n\n**Grains:**\n\n1. Whole wheat bread or pita (rich in fiber, B vitamins, and minerals)\n2. Quinoa (complete protein with all nine essential amino acids)\n3. Brown rice (good source of fiber, manganese, and selenium)\n4. Oats (excellent source of fiber, iron, and B vitamins)\n\n**Dairy:**\n\n1. Greek yogurt (rich in probiotics, calcium, and protein)\n2. Feta cheese (high in calcium, phosphorus, and conjugated linoleic acid)\n3. Ricotta cheese (good source of protein, calcium, and phosphorus)\n\n**Pantry staples:**\n\n1. Olive oil (rich in monounsaturated fats and antioxidants)\n2. Avocado oil (excellent source of heart-healthy fats and antioxidants)\n3. Herbs like oregano, thyme, and rosemary (add flavor without added salt or sugar)\n4. Spices like cumin, coriander, and paprika (add depth to dishes without added calories)\n\n**Beverages:**\n\n1. Water (stay hydrated with a balanced water intake)\n2. Red wine in moderation (contains antioxidants and polyphenols)\n3. Herbal teas like peppermint, chamomile, or hibiscus (rich in antioxidants and soothing compounds)\n\nRemember, the Mediterranean diet is all about balance and variety. Aim to include a rainbow of colors on your plate and experiment with new ingredients and recipes to find what works best for you!",
+      "response_time": 18.550548315048218,
+      "search_time": 0.15,
+      "generation_time": 18.550548315048218,
+      "tokens": 482.3,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 5,
+        "relevance": 3,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.5
+    },
+    {
+      "query": "comfort food for cold weather",
+      "category": "Semantic Similarity",
+      "explanation": "System should find warm, hearty, filling dishes like soups, stews, or hot meals",
+      "success": true,
+      "answer": "Comfort food - the perfect remedy for a chilly winter day! When it comes to cold weather, there's nothing like a warm, hearty bowl of goodness to soothe your soul and fill your belly. As a food expert, I've got you covered with some classic comfort foods that are sure to become your new favorite winter staples.\n\n1. **Hearty Soups**: A steaming hot bowl of soup is the ultimate comfort food for cold weather. Try classics like:\n\t* Chicken Noodle Soup: A timeless favorite that's easy to make and packed with protein, carbs, and veggies.\n\t* Beef Stew: A rich, flavorful stew that's perfect for a cold winter's night.\n\t* Butternut Squash Soup: A creamy, comforting soup that's bursting with autumnal flavors.\n2. **Warm, Crusty Breads**: There's nothing like a warm, crusty loaf of bread to mop up all those savory juices. Try:\n\t* Crusty Ciabatta: Perfect for dipping into soups or olive oil.\n\t* Buttery Biscuits: Flaky, tender biscuits that are perfect for sopping up gravy or soup.\n3. **Comforting Casseroles**: A warm, comforting casserole is just what you need to cozy up on a cold winter's day. Try:\n\t* Lasagna: A classic Italian dish that's easy to make and packed with layers of pasta, meat sauce, and melted mozzarella.\n\t* Chicken Pot Pie: A creamy, comforting pie that's perfect for a chilly evening.\n4. **Warm, Spicy Drinks**: Sometimes, all you need is something warm and spicy to chase away the chill. Try:\n\t* Hot Chocolate: Rich, decadent hot chocolate made with dark chocolate and topped with whipped cream.\n\t* Mulled Wine: A warming, spiced wine that's perfect for a cold winter's night.\n5. **Cozy Breakfasts**: Just because it's cold outside doesn't mean you can't have a cozy breakfast! Try:\n\t* Eggs Benedict: Poached eggs on toasted English muffins with crispy bacon and hollandaise sauce.\n\t* Warm Pancakes: Fluffy, warm pancakes smothered in syrup, butter, and fresh fruit.\n\nThese comfort foods are sure to become your new winter staples. So go ahead, grab a warm cup of coffee or tea, and dig into one (or two, or three...) of these delicious dishes - you deserve it!",
+      "response_time": 9.989412784576416,
+      "search_time": 0.15,
+      "generation_time": 9.989412784576416,
+      "tokens": 464.1,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 3,
+        "relevance": 4,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.25
+    },
+    {
+      "query": "light and refreshing summer dishes",
+      "category": "Semantic Similarity",
+      "explanation": "System should suggest fresh, cold, or room-temperature dishes suitable for hot weather",
+      "success": true,
+      "answer": "Summer is here! It's the perfect time to indulge in light and refreshing summer dishes that will keep you cool and satisfied. Here are some delicious and rejuvenating ideas for your next outdoor gathering or picnic:\n\n**Fruit-based dishes**\n\n1. **Watermelon Salad**: A classic combination of juicy watermelon, feta cheese, mint, and a drizzle of balsamic glaze.\n2. **Grilled Pineapple Skewers**: Sweet and tangy, perfect for a summer BBQ or potluck.\n3. **Mango Sorbet**: A refreshing dessert made with pureed mango, sugar, and lime juice.\n\n**Seafood delights**\n\n1. **Summer Seafood Salad**: Fresh shrimp, scallops, and mussels tossed in a zesty lemon-herb dressing.\n2. **Grilled Fish Tacos**: Lightly grilled fish (such as mahi-mahi or tilapia), topped with diced mango, avocado, and a squeeze of lime juice.\n3. **Seafood Gazpacho**: A chilled soup made with shrimp, squid, and vegetables, perfect for hot summer days.\n\n**Veggie-packed options**\n\n1. **Quinoa Salad Bowl**: A flavorful mix of quinoa, roasted vegetables (such as zucchini, bell peppers, and cherry tomatoes), and a citrus-herb vinaigrette.\n2. **Grilled Veggie Skewers**: Colorful skewers featuring marinated vegetables like bell peppers, onions, and mushrooms.\n3. **Cold Cucumber Soup**: A refreshing and light soup made with pureed cucumbers, yogurt, and dill.\n\n**Desserts**\n\n1. **Lemon Bars**: Tart and sweet, perfect for a summer dessert.\n2. **Fresh Fruit Salad**: A colorful mix of seasonal fruits, such as strawberries, blueberries, and raspberries.\n3. **Coconut Lime Panna Cotta**: A creamy and refreshing dessert made with coconut milk, lime juice, and a touch of sugar.\n\n**Beverages**\n\n1. **Iced Tea with Fresh Herbs**: A soothing and flavorful tea infused with herbs like mint, lemon balm, or basil.\n2. **Watermelon Basil Martini**: A refreshing cocktail made with watermelon puree, basil leaves, and sparkling wine.\n3. **Infused Water**: Add slices of cucumber, lemons, limes, or oranges to a pitcher of water for a light and revitalizing drink.\n\nThese light and refreshing summer dishes are perfect for hot weather gatherings and will leave you feeling cool and satisfied all summer long!",
+      "response_time": 10.127565860748291,
+      "search_time": 0.15,
+      "generation_time": 10.127565860748291,
+      "tokens": 426.40000000000003,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 3,
+        "relevance": 4,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.25
+    },
+    {
+      "query": "spicy vegetarian Asian dishes",
+      "category": "Multi-Criteria Search",
+      "explanation": "System must filter by: (1) spicy flavor, (2) vegetarian dietary, (3) Asian origin",
+      "success": true,
+      "answer": "The bold and exciting world of spicy vegetarian Asian dishes! As a food expert, I'm delighted to share with you some mouth-watering options that will ignite your taste buds.\n\nIn Asia, vegetarianism is not only a dietary choice but also an integral part of the culture. Many traditional dishes are naturally vegetarian or can be easily adapted to suit vegan and vegetarian diets. Here are some spicy vegetarian Asian dishes that you might enjoy:\n\n1. **Thai Red Curry with Tofu**: A classic Thai dish made with red curry paste, coconut milk, and a variety of vegetables, including bell peppers, onions, and mushrooms. Serve with steamed rice or noodles.\n2. **Korean Kimchi Stew (Kimchi Jjigae)**: A spicy, fermented Korean stew made with kimchi (spicy fermented cabbage), tofu, and various vegetables like zucchini, carrots, and potatoes.\n3. **Szechuan Vegetable Stir-Fry**: A flavorful stir-fry from Szechuan province in China, featuring a variety of vegetables like broccoli, bell peppers, and mushrooms, cooked in a spicy Szechuan pepper sauce with tofu or tempeh.\n4. **Indian Vindaloo with Vegetables**: A popular Indian curry made with marinated vegetables (like cauliflower, potatoes, and carrots) cooked in a spicy tomato-based sauce with vinegar and chili peppers.\n5. **Japanese Teriyaki Tofu with Spicy Gochujang Sauce**: A sweet and spicy dish featuring grilled or pan-seared tofu served with steamed rice and stir-fried vegetables like bell peppers, onions, and snow peas.\n6. **Southeast Asian Vegetable Spring Rolls**: Crispy spring rolls filled with shredded vegetables like carrots, cucumbers, and cabbage, served with a spicy dipping sauce made from chili flakes, lime juice, and fish sauce (use vegan alternatives for the latter).\n7. **Malaysian Spicy Lentil Curry (Red Lentil Curry)**: A hearty, flavorful curry made with red lentils, coconut milk, and a blend of spices like cumin, coriander, and cayenne pepper.\n8. **Chinese Vegetable Dumplings in Chili Oil**: Steamed or pan-fried dumplings filled with a mix of vegetables (like cabbage, carrots, and mushrooms) and served with a side of spicy chili oil for dipping.\n\nWhen it comes to spice levels, you can adjust the heat level according to your preference by adding more or less chili peppers, sriracha sauce, or other hot sauces. Don't be afraid to experiment with different combinations to create your perfect balance of flavor and heat!\n\nThese dishes are not only delicious but also offer a flavorful introduction to the rich culinary diversity of Asia's vegetarian traditions. Enjoy exploring these spicy vegetarian Asian dishes!",
+      "response_time": 10.80958867073059,
+      "search_time": 0.15,
+      "generation_time": 10.80958867073059,
+      "tokens": 525.2,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 4,
+        "relevance": 4,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.5
+    },
+    {
+      "query": "quick gluten-free breakfast under 15 minutes",
+      "category": "Multi-Criteria Search",
+      "explanation": "System must consider: (1) breakfast category, (2) gluten-free, (3) quick preparation time",
+      "success": true,
+      "answer": "A quick and delicious gluten-free breakfast under 15 minutes is absolutely achievable. Here are some fantastic options:\n\n1. **Avocado Toast with Poached Eggs**: Toast gluten-free bread (such as Udi's or Glutino), mash an avocado, and spread it on top. Poach two eggs and place them on the toast. Sprinkle salt and pepper to taste.\n\nPrep Time: 5 minutes | Cook Time: 10-12 minutes\n\n2. **Gluten-Free Overnight Oats**: Mix gluten-free oats (such as Bob's Red Mill), milk, and your choice of nuts, seeds, or fruit in a jar or container the night before. In the morning, top with fresh fruit and a drizzle of honey.\n\nPrep Time: 5 minutes | Cook Time: N/A\n\n3. **Smoothie Bowl**: Blend together your favorite fruits (such as banana, berries, and mango), gluten-free protein powder (if desired), and almond milk. Top with gluten-free granola and fresh fruit.\n\nPrep Time: 3-4 minutes | Cook Time: N/A\n\n4. **Scrambled Eggs with Spinach and Mushrooms**: Scramble eggs in a pan with some oil, add sliced mushrooms and chopped spinach, and cook until the eggs are set.\n\nPrep Time: 5 minutes | Cook Time: 8-10 minutes\n\n5. **Gluten-Free Pancakes**: Whip up a batch of gluten-free pancake mix (such as Pamela's Products) and top with fresh fruit, maple syrup, or Nutella.\n\nPrep Time: 5 minutes | Cook Time: 2-3 minutes per side\n\nThese options are all quick, delicious, and packed with nutrients. Enjoy your gluten-free breakfast!",
+      "response_time": 7.703397989273071,
+      "search_time": 0.15,
+      "generation_time": 7.703397989273071,
+      "tokens": 305.5,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 1,
+        "relevance": 5,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.0
+    },
+    {
+      "query": "high-protein dairy-free dinner options",
+      "category": "Multi-Criteria Search",
+      "explanation": "System must combine: (1) high protein, (2) no dairy, (3) suitable for dinner",
+      "success": true,
+      "answer": "As a food expert, I'd be happy to share some delicious and healthy high-protein dairy-free dinner options for you.\n\nHere are some tasty and nutritious ideas:\n\n1. **Lentil and Vegetable Stir-Fry**: This classic Indian dish is easy to make and packed with protein. Use red or green lentils, which contain about 18g of protein per cup cooked. Add your favorite vegetables like bell peppers, carrots, and broccoli, and a drizzle of olive oil.\n2. **Quinoa and Black Bean Bowl**: Quinoa is a complete protein, meaning it contains all nine essential amino acids, making it an excellent option for vegetarians and vegans. Cook quinoa according to package instructions, then top with cooked black beans (15g of protein per cup), diced tomatoes, and avocado.\n3. **Grilled Tofu and Roasted Vegetables**: Marinate extra-firm tofu in your favorite seasonings and grill until crispy on the outside and tender on the inside. Serve with a variety of roasted vegetables like Brussels sprouts, sweet potatoes, and cauliflower (all high in protein).\n4. **Chickpea and Spinach Curry**: This Indian-inspired dish is not only delicious but also packed with protein. Use canned chickpeas or cook dried chickpeas for about 45 minutes, then add spinach, coconut milk, and your favorite spices.\n5. **Kale and Mushroom Risotto**: Yes, you read that right - kale and mushroom risotto! This dairy-free version uses vegetable broth instead of milk and is loaded with protein from the mushrooms (about 2g per cup) and kale (about 1g per cup).\n6. **Tempeh Stir-Fry**: Tempeh is a fermented soybean product high in protein (about 15g per cup). Marinate it in your favorite seasonings, then stir-fry with your favorite vegetables like bell peppers, carrots, and broccoli.\n7. **Falafel and Brown Rice Bowl**: Falafel is made from chickpeas and is an excellent source of protein (about 10g per serving). Serve falafel over brown rice, topped with diced tomatoes, avocado, and a dollop of tahini sauce.\n\nThese high-protein dairy-free dinner options are not only delicious but also nutritious and easy to make. Feel free to get creative and experiment with different spices, herbs, and vegetables to find your favorite flavors!",
+      "response_time": 10.074881076812744,
+      "search_time": 0.15,
+      "generation_time": 10.074881076812744,
+      "tokens": 455.0,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 4,
+        "relevance": 4,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.5
+    },
+    {
+      "query": "high-protein low-carb foods",
+      "category": "Nutritional Query",
+      "explanation": "System should identify foods with high protein content and minimal carbohydrates",
+      "success": true,
+      "answer": "High-protein, low-carb foods are an excellent choice for those following a ketogenic diet or looking to reduce their carbohydrate intake while maintaining muscle mass and overall health. Here are some nutritious and delicious options:\n\n**Meat and Poultry:**\n\n1. Chicken breast (3-4 oz serving, 26-30g protein, 0-1g carb)\n2. Turkey breast (3-4 oz serving, 24-28g protein, 0-1g carb)\n3. Lean beef (3-4 oz serving, 22-25g protein, 0-1g carb)\n4. Pork tenderloin (3-4 oz serving, 23-27g protein, 0-1g carb)\n\n**Fish and Seafood:**\n\n1. Salmon (3-4 oz serving, 20-24g protein, 0g carb)\n2. Tuna (3-4 oz serving, 20-25g protein, 0g carb)\n3. Shrimp (3-4 oz serving, 16-20g protein, 0g carb)\n4. Lobster (3-4 oz serving, 16-20g protein, 0g carb)\n\n**Eggs:**\n\n1. Large eggs (6-7g protein, 1-2g carb per egg)\n\n**Dairy and Alternatives:**\n\n1. Greek yogurt (6-8 oz serving, 15-20g protein, 5-10g carb)\n2. Cottage cheese (1/2 cup serving, 11-13g protein, 5-10g carb)\n3. Almond milk or other low-carb milk alternatives (varies by brand and type)\n\n**Legumes (yes, they can be high-protein too!):**\n\n1. Lentils (1/2 cup cooked, 9g protein, 6g carb)\n2. Chickpeas (1/2 cup cooked, 8g protein, 6g carb)\n3. Black beans (1/2 cup cooked, 8g protein, 7g carb)\n\n**Nuts and Seeds:**\n\n1. Almonds (1 oz serving, 6g protein, 6g carb)\n2. Chia seeds (1 oz serving, 5g protein, 4g carb)\n3. Hemp seeds (1 oz serving, 10g protein, 4g carb)\n\n**Other Options:**\n\n1. Protein powder (varies by type and brand, but generally 20-30g protein per scoop)\n2. Full-fat coconut milk (1 cup serving, 5g protein, 6g carb)\n\nWhen choosing high-protein, low-carb foods, remember to always check the nutrition label or consult with a healthcare professional or registered dietitian for personalized recommendations.",
+      "response_time": 11.118674039840698,
+      "search_time": 0.15,
+      "generation_time": 11.118674039840698,
+      "tokens": 364.0,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 2,
+        "relevance": 3,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 3.75
+    },
+    {
+      "query": "foods rich in iron and vitamin C",
+      "category": "Nutritional Query",
+      "explanation": "System should find dishes with iron sources and vitamin C (which aids iron absorption)",
+      "success": true,
+      "answer": "As a food expert, I'd be happy to provide you with a list of foods that are rich in iron and vitamin C, which can help enhance the absorption of iron from plant-based sources.\n\n**Foods Rich in Iron:**\n\n1. Red meat (beef, lamb, pork): 3-4 mg per 3 oz serving\n2. Poultry (chicken, turkey): 2-3 mg per 3 oz serving\n3. Fish and seafood (shrimp, sardines, tuna): 2-3 mg per 3 oz serving\n4. Legumes (lentils, chickpeas, black beans): 1-3 mg per 1 cup cooked\n5. Nuts and seeds (pumpkin seeds, sesame seeds, sunflower seeds): 1-2 mg per 1/4 cup\n\n**Foods Rich in Vitamin C:**\n\n1. Citrus fruits (oranges, grapefruits, lemons): 100-150 mg per 1 medium fruit\n2. Berries (strawberries, blueberries, raspberries): 50-100 mg per 1 cup\n3. Leafy greens (spinach, kale, broccoli): 20-50 mg per 1 cup cooked\n4. Bell peppers: 125 mg per 1 cup sliced\n5. Tomatoes: 28 mg per 1 medium tomato\n\n**Combining Iron and Vitamin C:**\n\nWhen you consume foods that are high in iron and vitamin C together, the vitamin C can help increase the absorption of iron from plant-based sources by up to 80%. This is because vitamin C can help convert non-heme iron (found in plants) into a more soluble form that can be easily absorbed by the body.\n\nSome examples of food combinations that are rich in both iron and vitamin C include:\n\n* Grilled salmon with citrus slices\n* Stir-fry with leafy greens, bell peppers, and pumpkin seeds\n* Lentil soup with sliced oranges or lemons\n* Roasted chicken with saut\u00e9ed spinach and tomatoes\n\nRemember to consume a variety of foods to meet your daily iron and vitamin C needs. If you're concerned about getting enough iron or vitamin C, consult with a registered dietitian or healthcare professional for personalized guidance.",
+      "response_time": 9.50101351737976,
+      "search_time": 0.15,
+      "generation_time": 9.50101351737976,
+      "tokens": 391.3,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 2,
+        "relevance": 4,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.0
+    },
+    {
+      "query": "low-fat high-fiber meals",
+      "category": "Nutritional Query",
+      "explanation": "System should recommend dishes emphasizing fiber content with minimal fat",
+      "success": true,
+      "answer": "Low-fat, high-fiber meals can be an excellent choice for those looking to maintain a healthy diet while managing their weight and improving overall well-being. Here are some delicious and nutritious meal ideas that incorporate low-fat, high-fiber foods:\n\n**Breakfast Options**\n\n1. Oatmeal with Fresh Fruits and Nuts: Cook steel-cut oats with low-fat milk and top with fresh fruits, nuts, and a drizzle of honey.\n2. Avocado Toast on Whole Grain Bread: Spread mashed avocado on whole grain bread, top with a fried egg, and sprinkle with salt and pepper.\n3. Greek Yogurt Parfait with Berries and Granola: Layer Greek yogurt, fresh berries, and high-fiber granola in a bowl.\n\n**Lunch Options**\n\n1. Grilled Chicken Salad with Mixed Greens and Beans: Top mixed greens with grilled chicken breast, black beans, cherry tomatoes, cucumber, and a homemade vinaigrette dressing.\n2. Whole Grain Pasta with Marinara Sauce and Vegetables: Cook whole grain pasta according to package instructions and serve with marinara sauce, saut\u00e9ed vegetables (such as bell peppers, carrots, and zucchini), and lean protein like turkey or chicken.\n3. Lentil Soup with Whole Grain Bread: Cook lentils with diced vegetables and spices, then serve with a side of whole grain bread for dipping.\n\n**Dinner Options**\n\n1. Baked Salmon with Roasted Vegetables: Season salmon fillets with lemon juice and herbs, then bake in the oven with roasted vegetables like broccoli, Brussels sprouts, and sweet potatoes.\n2. Quinoa and Black Bean Bowl with Grilled Chicken: Cook quinoa and black beans, then top with grilled chicken breast, diced tomatoes, and a drizzle of low-fat ranch dressing.\n3. Stir-Fried Vegetables with Brown Rice and Lean Beef: Cook brown rice according to package instructions, then stir-fry a variety of vegetables (such as bell peppers, carrots, and snow peas) with lean beef, soy sauce, and a sprinkle of sesame seeds.\n\n**Snacks**\n\n1. Fresh Fruit Salad with Almonds: Mix together fresh fruits like apples, bananas, and grapes, then top with sliced almonds.\n2. Carrot Sticks with Hummus: Dip carrot sticks in a low-fat hummus dip for a crunchy snack.\n3. Dark Chocolate-Dipped Apricots: Dip dried apricots in melted dark chocolate for a sweet and satisfying treat.\n\nWhen incorporating these meal ideas into your diet, remember to:\n\n* Choose whole grains over refined carbohydrates\n* Opt for lean protein sources like poultry, fish, and legumes\n* Include a variety of colorful fruits and vegetables to ensure adequate fiber intake\n* Limit your intake of added sugars, saturated fats, and processed foods\n\nBy making these healthy food choices, you'll be well on your way to achieving a balanced diet that supports optimal health and well-being.",
+      "response_time": 11.244895696640015,
+      "search_time": 0.15,
+      "generation_time": 11.244895696640015,
+      "tokens": 560.3000000000001,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 3,
+        "relevance": 3,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.0
+    },
+    {
+      "query": "traditional Filipino comfort foods",
+      "category": "Cultural Exploration",
+      "explanation": "System should understand Filipino cultural dishes with significance and comfort associations",
+      "success": true,
+      "answer": "Filipino comfort foods! Filipino cuisine is known for its rich flavors, aromas, and textures that can evoke feelings of warmth and nostalgia. Traditional Filipino comfort foods are often simple yet satisfying dishes that use locally sourced ingredients to create hearty and delicious meals. Here are some classic Filipino comfort foods:\n\n1. **Adobo**: A staple Filipino dish made with marinated meat (chicken or pork) cooked in vinegar, soy sauce, garlic, and bay leaves. The result is a tangy, savory sauce that's both flavorful and comforting.\n2. **Lechon**: Roasted pig stuffed with liver, onions, and spices, served with steamed rice and often accompanied by liver sauce and liver salad (lumpia). A classic Filipino dish that's both nostalgic and indulgent.\n3. **Lumpia** (Filipino Spring Rolls): Deep-fried or steamed rolls filled with vegetables, meat, or shrimp, typically served as a snack or appetizer. They're crispy on the outside and soft on the inside, making them irresistible.\n4. **Sinigang**: A sour soup made with tamarind broth and various ingredients such as fish, shrimp, or pork, often served with steamed rice. The acidity of the tamarind gives the dish a unique flavor profile that's both refreshing and comforting.\n5. **Chicken Inasal** (Grilled Chicken): Marinated chicken grilled to perfection over charcoal, resulting in juicy meat with a smoky flavor.\n6. **Tinola**: A ginger-based chicken soup made with chicken broth, ginger, garlic, and onions, often served with steamed rice or crusty bread.\n7. **Sisig** (Pork Face): A dish from Pampanga, where chopped pork face is mixed with chili peppers, vinegar, and other ingredients, then served as a sizzling appetizer or snack.\n8. **Chicken Liver Croquettes**: Crispy fried balls filled with chicken liver, breadcrumbs, and spices, often served as an appetizer or side dish.\n9. **Halo-Halo** (Filipino Shaved Ice Dessert): A refreshing dessert made from shaved ice mixed with sweetened beans, fruits, milk, and various other toppings, creating a delightful texture and flavor combination.\n10. **Ube Halaya** (Purple Yam Jam): A traditional Filipino jam made from purple yams, sugar, and water, often served as a topping for rice cakes or toast.\n\nThese are just a few examples of the comforting dishes that make up traditional Filipino cuisine. Each dish has its own unique flavors, textures, and stories to tell, reflecting the country's rich cultural heritage and love for food.",
+      "response_time": 10.590444087982178,
+      "search_time": 0.15,
+      "generation_time": 10.590444087982178,
+      "tokens": 494.0,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 5,
+        "relevance": 4,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.75
+    },
+    {
+      "query": "authentic Thai street food dishes",
+      "category": "Cultural Exploration",
+      "explanation": "System should identify Thai dishes commonly sold by street vendors with authentic preparation",
+      "success": true,
+      "answer": "Thai street food - the culinary heartbeat of Thailand! Street food in Thailand is not just a meal, but an experience that showcases the country's rich culture and flavors. Here are some authentic and delicious Thai street food dishes you should try when visiting Thailand:\n\n1. **Som Tam (Papaya Salad)**: A spicy and sour salad made from shredded green papaya, tomatoes, chilies, and peanuts. This dish is a classic example of Thai street food and can be found at almost every market or stall.\n2. **Satay**: Grilled meat skewers, typically made with chicken, beef, pork, or lamb. Satay is often served with a side of peanut sauce, kecap manis (sweet soy sauce), and rice.\n3. **Khao Soi**: A curried noodle soup that originated in Chiang Mai. This hearty dish features boiled egg noodles, braised meat (usually beef or chicken), and a variety of vegetables, topped with crispy fried noodles.\n4. **Larb (Meat Salad)**: A spicy salad made from minced meat (chicken, beef, or pork) mixed with herbs, chilies, and lime juice. This dish is often served as a snack or appetizer.\n5. **Khao Niew Mamuang**: A sweet and creamy mango with sticky rice dessert that's popular among locals and visitors alike. The combination of the warm sticky rice and cold mango is absolute perfection!\n6. **Tod Mun (Deep-Fried Fish Cakes)**: Crispy fried patties made from fish paste, red curry paste, and green beans. These bite-sized treats are often served as a snack or appetizer.\n7. **Pad Thai**: Stir-fried rice noodles with shrimp, tofu, and vegetables, flavored with tamarind and fish sauce. This iconic dish is a staple of Thai street food and can be found at almost every market stall.\n8. **Khanom Buang (Thai Crepe)**: A thin crepe filled with sweet coconut and bean paste, typically served as a dessert or snack.\n9. **Sai Oua (Chiang Mai Sausage)**: Spicy sausage made from pork, chilies, and herbs, often served grilled or steamed.\n10. **Khao Tod (Fried Rice Cakes)**: Crispy fried patties made from cooked rice, egg, and water, often served with a side of sweet chili sauce.\n\nWhen trying Thai street food, remember to:\n\n* Eat at stalls or markets that are busy and well-reviewed by locals and tourists.\n* Be prepared for bold flavors and spices!\n* Try a variety of dishes to experience the full range of Thai street food flavors.\n* Don't be afraid to ask your server or vendor for recommendations or modifications to suit your taste.\n\nEnjoy exploring the world of Thai street food, and remember to always respect local customs and traditions when eating at street stalls!",
+      "response_time": 11.65290641784668,
+      "search_time": 0.15,
+      "generation_time": 11.65290641784668,
+      "tokens": 561.6,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 5,
+        "relevance": 5,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 5.0
+    },
+    {
+      "query": "ceremonial Indian dishes for celebrations",
+      "category": "Cultural Exploration",
+      "explanation": "System should recognize Indian dishes with cultural/religious significance used in festivities",
+      "success": true,
+      "answer": "In Indian cuisine, food plays a significant role in various celebrations and ceremonies. Here are some traditional and symbolic Indian dishes that are typically served during different celebrations:\n\n1. **Diwali** (Festival of Lights):\n\t* **Samosas**: Crunchy fried or baked pastries filled with spiced potatoes and peas.\n\t* **Gulab Jamun**: Deep-fried dumplings soaked in rose syrup and cardamom-infused milk.\n\t* **Jalebi**: Crispy, fermented batter dessert soaked in syrup and sprinkled with nuts.\n2. **Holi** (Festival of Colors):\n\t* **Thandai**: A sweet and creamy drink made with milk, sugar, and spices like cardamom and nutmeg.\n\t* **Gujiya**: Deep-fried or baked pastry filled with a mixture of wheat flour, sugar, and nuts.\n3. **Navratri** (Nine Nights):\n\t* **Surti Undhiyu**: A popular Gujarati dish made with eggplant, potatoes, and peanuts in a tangy tomato-based sauce.\n\t* **Khichdi**: A comforting rice and lentil dish often served as a snack or light meal.\n4. **Pongal** (Harvest Festival):\n\t* **Idlis**: Steamed rice cakes often served with sambar (lentil-based vegetable stew) and chutney.\n5. **Dussehra** (Victory of Good over Evil):\n\t* **Aadya Purnima Laddu**: A sweet, round-shaped dessert made with gram flour, sugar, and ghee.\n6. **Eid-al-Fitr** (Festival of Breaking the Fast):\n\t* **Baklava**: A sweet pastry made with layers of flaky dough, nuts, and honey.\n7. **Ganesh Chaturthi** (Birth of Lord Ganesha):\n\t* **Modak**: Sweet dumplings filled with a mixture of rice flour, sugar, and coconut.\n\nThese traditional dishes are often prepared in large quantities and served as offerings to the gods, guests, or family members during these celebrations. The food is not only delicious but also holds symbolic significance, representing prosperity, good fortune, and spiritual growth.\n\nIn Indian cuisine, every dish has a story behind it, and each celebration offers an opportunity to explore the rich culinary heritage of the country. Whether you're attending a wedding, festival, or family gathering, traditional Indian dishes like these are sure to bring warmth and joy to any occasion.",
+      "response_time": 10.142082929611206,
+      "search_time": 0.15,
+      "generation_time": 10.142082929611206,
+      "tokens": 414.7,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 4,
+        "relevance": 3,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.25
+    },
+    {
+      "query": "dishes that can be grilled",
+      "category": "Cooking Method",
+      "explanation": "System should identify foods suitable for grilling as cooking method",
+      "success": true,
+      "answer": "The art of grilling! There's something special about the smoky flavor and charred texture that comes from cooking over an open flame. Grilling brings out the best in many types of cuisine, from classic burgers to exotic meats and vegetables. Here are some popular dishes that can be grilled:\n\n**Meats**\n\n1. Burgers: Juicy beef or turkey patties, topped with cheese, bacon, and all the fixings.\n2. Steak: Ribeye, sirloin, or filet mignon - grill them to your desired level of doneness.\n3. Sausages: Whether you prefer classic pork sausages or more adventurous options like chorizo or bratwurst.\n4. Chicken breasts: Marinated in your favorite flavors and grilled to perfection.\n5. Ribs: Pork ribs, beef ribs, or even lamb ribs - slathered in BBQ sauce for a sweet and tangy treat.\n\n**Vegetables**\n\n1. Asparagus: Tossed with olive oil, salt, and pepper, asparagus grills up tender and delicious.\n2. Bell peppers: Sweet and slightly smoky, bell peppers are a grill-perfect snack or side dish.\n3. Zucchini: Sliced into thick rounds or spiralized for a fun twist on the classic summer squash.\n4. Mushrooms: Earthy and savory, grilled mushrooms add depth to any dish.\n5. Corn on the cob: Grilled to perfection with a sprinkle of parmesan cheese and a squeeze of lime juice.\n\n**Seafood**\n\n1. Shrimp: Skewered or tossed in a marinade, shrimp grill up quickly and are perfect for summer nights.\n2. Salmon fillets: Omega-rich salmon pairs perfectly with the smoky flavor of grilling.\n3. Scallops: Sear-scalded to perfection, scallops make a decadent seafood dish.\n\n**Fruits**\n\n1. Pineapple: Grill sliced pineapple rings or chunks with a sprinkle of brown sugar for a sweet and tangy dessert.\n2. Peaches: Grilled peaches are a Southern classic - perfect as a side dish or topping for ice cream.\n3. Figs: Sweet and savory, grilled figs pair perfectly with prosciutto or cheese.\n\n**Other dishes**\n\n1. Veggie burgers: A great option for vegetarians and vegans alike!\n2. Tofu: Marinated and grilled tofu makes a protein-packed alternative to meat.\n3. Portobello mushrooms caps: Stuffed with cheese, herbs, and spices, these 'shrooms make a satisfying vegetarian main course.\n\nRemember to always grill safely and use proper techniques to ensure juicy, flavorful results!",
+      "response_time": 10.605191707611084,
+      "search_time": 0.15,
+      "generation_time": 10.605191707611084,
+      "tokens": 473.2,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 5,
+        "relevance": 3,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.5
+    },
+    {
+      "query": "one-pot meals requiring minimal cleanup",
+      "category": "Cooking Method",
+      "explanation": "System should find dishes cooked entirely in one vessel with simple preparation",
+      "success": true,
+      "answer": "One-pot meals - the ultimate kitchen hack for busy home cooks and meal prep enthusiasts! Not only do they save time in preparation and cooking, but they also minimize cleanup, making them a favorite among foodies and health-conscious individuals alike.\n\nHere are some delicious one-pot meal ideas that require minimal cleanup:\n\n1. **Skillet Pasta**: Cook pasta, tomato sauce, and your choice of protein (chicken, sausage, or veggies) in a large skillet. Serve hot, garnished with fresh basil.\n2. **Lentil Soup**: Saute onions, garlic, and carrots in a pot, then add lentils, broth, and diced tomatoes. Simmer until the lentils are tender, then season with your favorite spices.\n3. **Stir-Fried Rice**: Cook rice, frozen veggies (peas, corn, and carrots), and your choice of protein (chicken, beef, or tofu) in a large skillet. Stir-fry everything together for a quick and easy meal.\n4. **Chili con Carne**: Brown ground beef, onions, and bell peppers in a pot, then add canned tomatoes, beans, and broth. Simmer until the flavors meld together, serving hot with crusty bread or cornbread.\n5. **Jambalaya**: Cook sausage, chicken, and veggies (onions, bell peppers, and tomatoes) in a large skillet. Add uncooked rice and cook until it's tender and fluffy.\n6. **Roasted Vegetable Soup**: Roast your favorite vegetables (carrots, sweet potatoes, and onions) in the oven with some olive oil and seasoning. Then, blend everything together with broth to create a creamy soup.\n7. **Baked Mac 'n Cheese**: Cook pasta, cream, and shredded cheese in a large skillet or saucepan. Add breadcrumbs on top for a crispy topping.\n8. **Chicken and Rice Bowl**: Cook chicken breast, rice, and frozen peas in a large skillet. Serve hot with your favorite stir-fry sauces (e.g., soy sauce, sriracha).\n\nWhen cooking one-pot meals, remember to choose ingredients that cook quickly and evenly, like pre-cut veggies or pre-cooked meats. Also, make sure to use non-stick cookware or cast-iron skillets to minimize cleanup.\n\nTips for Minimal Cleanup:\n\n* Use a large skillet or saucepan with a lid to contain all the cooking liquid and food particles.\n* Cook ingredients in batches if necessary (e.g., brown meat separately before adding veggies).\n* Clean as you go, washing utensils and wiping down surfaces immediately after each step of preparation.\n* Consider using disposable cookware or liners for easy cleanup.\n\nBy incorporating one-pot meals into your meal planning routine, you'll save time, reduce stress, and enjoy healthier, more satisfying meals with minimal cleanup.",
+      "response_time": 11.001903772354126,
+      "search_time": 0.15,
+      "generation_time": 11.001903772354126,
+      "tokens": 525.2,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 5,
+        "relevance": 4,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.75
+    },
+    {
+      "query": "no-cook fresh preparations",
+      "category": "Cooking Method",
+      "explanation": "System should suggest dishes requiring no heat/cooking, using fresh raw ingredients",
+      "success": true,
+      "answer": "The world of no-cook fresh preparations! This style of cooking is perfect for warm weather, outdoor events, and individuals who prefer to avoid the heat of traditional cooking methods. No-cook fresh preparations involve using raw ingredients, often in combination with dressings and marinades, to create delicious and refreshing dishes.\n\nSome popular no-cook fresh preparation techniques include:\n\n1. **Salads**: A classic no-cook option, salads can be customized with a wide range of ingredients such as greens, vegetables, fruits, nuts, and proteins.\n2. **Sashimi and sushi**: These Japanese dishes feature raw fish and seafood served without cooking, often with soy sauce, wasabi, and pickled ginger.\n3. **Gazpacho**: A chilled soup made from raw tomatoes, peppers, cucumbers, and bread, originating from Spain.\n4. **Cold soups**: Such as cucumber soup, yogurt-based soups, or creamy cold soups like vichyssoise, which typically include potatoes, leeks, and cream.\n5. **Fresh fruit arrangements**: A simple yet elegant option, featuring a variety of fresh fruits such as strawberries, grapes, berries, and citrus slices.\n\nTo take your no-cook preparations to the next level, consider adding some creative elements:\n\n1. **Herbs and garnishes**: Use fresh herbs like basil, mint, or cilantro to add flavor and visual appeal to your dishes.\n2. **Citrus dressing**: Create a marinade with freshly squeezed citrus juice, olive oil, and spices for added depth of flavor.\n3. **Marinated ingredients**: Marinate raw vegetables, meats, or seafood in a mixture of soy sauce, vinegar, and spices for added flavor.\n4. **Chilled dips**: Prepare chilled dips like hummus, guacamole, or tzatziki with yogurt, cucumber, garlic, and lemon juice.\n\nWhen preparing no-cook dishes, be sure to follow proper food safety guidelines:\n\n1. **Handle raw ingredients safely**: Keep raw meat, poultry, seafood, and eggs separate from ready-to-eat foods.\n2. **Store ingredients properly**: Keep perishable ingredients refrigerated at a temperature below 40\u00b0F (4\u00b0C).\n3. **Use safe water**: Use clean and filtered water for preparing no-cook dishes.\n\nIn summary, no-cook fresh preparations offer a refreshing alternative to traditional cooking methods, allowing you to enjoy delicious and healthy meals without heating up your kitchen!",
+      "response_time": 9.956547498703003,
+      "search_time": 0.15,
+      "generation_time": 9.956547498703003,
+      "tokens": 440.7,
+      "cost": 0,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 5,
+        "relevance": 3,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.5
+    }
+  ],
+  "system_b_cloud": [
+    {
+      "query": "healthy Mediterranean options",
+      "category": "Semantic Similarity",
+      "explanation": "System should identify dishes with olive oil, fresh vegetables, lean proteins typical of Mediterranean diet",
+      "success": true,
+      "answer": "Based on the provided context, healthy Mediterranean options include:\n\n1. **Mediterranean Chickpea Power Bowl**: A vibrant bowl that combines chickpeas, farro or quinoa, and vegetables, topped with a feta-lemon-oregano dressing. This option is high in fiber, plant protein, and monounsaturated fats, supporting cardiovascular health.\n\n2. **Chickpea and Avocado Salad**: A fresh salad that combines chickpeas, avocado, and vegetables, dressed with lemon and olive oil. This option is rich in plant protein, fiber, potassium, and folate, supporting blood sugar regulation and fullness.\n\n3. **Lentil and Vegetable Stew**: A hearty stew of green lentils, tomatoes, and vegetables, simmered with garlic, onion, and thyme. This option is high in fiber, plant protein, iron, and folate, supporting digestive health and satiety.\n\nAll three options incorporate Mediterranean pantry staples and prioritize plant-based protein sources, whole grains, and polyphenol-rich produce, making them ideal for a healthy Mediterranean diet.",
+      "response_time": 1.6509976387023926,
+      "search_time": 0.7849137783050537,
+      "generation_time": 0.8660838603973389,
+      "tokens": 1053,
+      "cost": 6.844499999999999e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 0,
+        "relevance": 3,
+        "completeness": 3,
+        "clarity": 5
+      },
+      "avg_quality": 2.75
+    },
+    {
+      "query": "comfort food for cold weather",
+      "category": "Semantic Similarity",
+      "explanation": "System should find warm, hearty, filling dishes like soups, stews, or hot meals",
+      "success": true,
+      "answer": "Based on the context, the following comfort foods are suitable for cold weather:\n\n1. **Shepherd's Pie**: This traditional British casserole is specifically mentioned as a warm dish, perfect for cold weather. It layers savory minced lamb and vegetables under a blanket of mashed potatoes, providing hearty sustenance during the cold months.\n\n2. **Mac and Cheese**: While not exclusively a cold-weather dish, Mac and Cheese is described as a comforting, dependable solace that evokes warmth and generosity. Its creamy, cheesy sauce and golden crust make it a satisfying choice for cold winter nights.\n\nBoth of these options are well-suited for cold weather, but Shepherd's Pie is particularly noted for its connection to rural cooking and the communal relief of a warm dish during the colder months.",
+      "response_time": 1.3105316162109375,
+      "search_time": 0.7117404937744141,
+      "generation_time": 0.5987911224365234,
+      "tokens": 964,
+      "cost": 6.266e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 3,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 2
+      },
+      "avg_quality": 3.0
+    },
+    {
+      "query": "light and refreshing summer dishes",
+      "category": "Semantic Similarity",
+      "explanation": "System should suggest fresh, cold, or room-temperature dishes suitable for hot weather",
+      "success": true,
+      "answer": "Based on the provided context, the following summer dishes are light and refreshing:\n\n1. **Grilled Salmon with Broccolini**: This dish features a light and delicate grilled salmon paired with blanched and saut\u00e9ed broccolini. The use of lemon zest, garlic, and olive oil adds a bright and refreshing flavor profile.\n\n2. **Miso Soup with Seaweed and Tofu**: Although not specifically described as a summer dish, the Miso Soup is a light and comforting option for any season, including summer. The rehydrated wakame seaweed and silken tofu add a refreshing texture, while the dashi and miso paste provide a subtle umami flavor.\n\n3. **Ratatouille**: While Ratatouille is a hearty vegetable stew, it's also a light and refreshing option for summer. The dish features a variety of summer vegetables, including eggplant, zucchini, peppers, and tomatoes, which are stewed until tender and fragrant. The use of herbs and olive oil adds a bright and refreshing flavor profile.\n\nAll three dishes are suitable for a light and refreshing summer meal, and they cater to different tastes and dietary preferences.",
+      "response_time": 1.3990614414215088,
+      "search_time": 0.7092456817626953,
+      "generation_time": 0.6898157596588135,
+      "tokens": 1069,
+      "cost": 6.948499999999999e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 3,
+        "relevance": 4,
+        "completeness": 4,
+        "clarity": 5
+      },
+      "avg_quality": 4.0
+    },
+    {
+      "query": "spicy vegetarian Asian dishes",
+      "category": "Multi-Criteria Search",
+      "explanation": "System must filter by: (1) spicy flavor, (2) vegetarian dietary, (3) Asian origin",
+      "success": true,
+      "answer": "Based on the provided context, there are two spicy vegetarian Asian dishes mentioned:\n\n1. **Gaeng Keow Wan (Green Curry)**: This Thai curry is a fragrant, mildly sweet, and gently fiery dish featuring a vibrant paste of green chilies, lemongrass, kaffir lime, galangal, and herbs, enveloping tender eggplant and Thai basil. It's a popular and beloved dish across Thai households and restaurants.\n\n2. While not specifically stated as 'spicy', the Tofu Stir-Fry with Brown Rice can be easily adapted to include spicy elements like chili. However, as described, it focuses more on being a fast, nourishing, and adaptable plate with a light soy sauce.\n\nPlease note that the Panang Curry mentioned in the context is not vegetarian since it typically includes beef, chicken, or other animal-derived ingredients. However, it could be adapted to be vegetarian by substituting the protein with tofu or other plant-based options.",
+      "response_time": 1.3979921340942383,
+      "search_time": 0.7140226364135742,
+      "generation_time": 0.6839694976806641,
+      "tokens": 1002,
+      "cost": 6.513e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 2,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 2
+      },
+      "avg_quality": 2.75
+    },
+    {
+      "query": "quick gluten-free breakfast under 15 minutes",
+      "category": "Multi-Criteria Search",
+      "explanation": "System must consider: (1) breakfast category, (2) gluten-free, (3) quick preparation time",
+      "success": true,
+      "answer": "Based on the provided context, I recommend the following quick gluten-free breakfast option under 15 minutes:\n\n**Spinach and Mushroom Omelet**\n\nThis European-inspired dish fits the criteria perfectly. With the following preparation steps, you can enjoy a healthy, gluten-free breakfast in under 15 minutes:\n\n1. Saut\u00e9 mushrooms and spinach in olive oil.\n2. Pour beaten eggs over the mixture and cook gently.\n3. Fold the omelet and serve with a splash of milk (optional).\n\nPrep Time: Approximately 10-12 minutes\nCook Time: Approximately 2-3 minutes\nTotal Time: Approximately 12-15 minutes\n\nThis omelet is a great option as it's high in protein, B vitamins, iron, and antioxidants, making it a nutritious and satisfying breakfast choice.",
+      "response_time": 1.2611110210418701,
+      "search_time": 0.6986758708953857,
+      "generation_time": 0.5624351501464844,
+      "tokens": 928,
+      "cost": 6.031999999999999e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 2,
+        "relevance": 5,
+        "completeness": 3,
+        "clarity": 2
+      },
+      "avg_quality": 3.0
+    },
+    {
+      "query": "high-protein dairy-free dinner options",
+      "category": "Multi-Criteria Search",
+      "explanation": "System must combine: (1) high protein, (2) no dairy, (3) suitable for dinner",
+      "success": true,
+      "answer": "Based on the provided context, here are two high-protein dairy-free dinner options:\n\n1. **Grilled Chicken Buddha Bowl**: This option is mentioned as a healthy bowl with high protein content. You can modify the recipe by swapping the quinoa or brown rice with a dairy-free grain, and using a dairy-free yogurt or tahini dressing. The grilled chicken breast is a lean protein source that provides approximately 30-40 grams of protein per serving.\n\n2. **Spinach and Mushroom Omelet**: While the original recipe includes milk as an optional ingredient, you can easily modify it to be dairy-free by skipping the milk altogether. This omelet is a great source of protein from the eggs, and adding saut\u00e9ed mushrooms and spinach provides additional nutrients. A serving of this omelet can provide approximately 20-25 grams of protein.\n\nBoth of these options are high in protein, dairy-free, and can be modified to suit your dietary preferences.",
+      "response_time": 1.3557624816894531,
+      "search_time": 0.7006430625915527,
+      "generation_time": 0.6551194190979004,
+      "tokens": 971,
+      "cost": 6.3115e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 2,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5
+      },
+      "avg_quality": 3.5
+    },
+    {
+      "query": "high-protein low-carb foods",
+      "category": "Nutritional Query",
+      "explanation": "System should identify foods with high protein content and minimal carbohydrates",
+      "success": true,
+      "answer": "Based on the provided context, the following high-protein, low-carb foods can be identified:\n\n1. **Greek Yogurt Parfait**: Although this dish contains some carbs from the berries and honey, the Greek yogurt itself is a high-protein food that can contribute to a satisfying and protein-rich snack or meal. However, note that the nutritional highlights of this dish emphasize high protein and probiotics, but also mention \"polyphenols from berries\" and \"healthy fats\" which may indicate moderate carb content.\n\n2. **Baked Sweet Potato with Cottage Cheese**: This dish may not be the best option for a low-carb diet due to the presence of the sweet potato. However, the cottage cheese is a high-protein food that can contribute to a balanced snack or meal.\n\n3. **Greek Yogurt Chicken Salad Wrap**: This dish is a better option for a high-protein, low-carb food. The Greek yogurt and chicken provide a balance of protein and healthy fats, while the whole-grain wraps or lettuce leaves will add some fiber and carbs, but in moderation. This dish is a convenient and balanced snack or light meal option.\n\nIn general, when it comes to high-protein, low-carb foods, the best options from the provided context are:\n\n- Cottage cheese\n- Greek yogurt\n- Cooked chicken",
+      "response_time": 1.513883113861084,
+      "search_time": 0.6917574405670166,
+      "generation_time": 0.8221256732940674,
+      "tokens": 1055,
+      "cost": 6.8575e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 4,
+        "relevance": 3,
+        "completeness": 5,
+        "clarity": 5
+      },
+      "avg_quality": 4.25
+    },
+    {
+      "query": "foods rich in iron and vitamin C",
+      "category": "Nutritional Query",
+      "explanation": "System should find dishes with iron sources and vitamin C (which aids iron absorption)",
+      "success": true,
+      "answer": "Based on the provided context, the following foods rich in iron and vitamin C can be identified:\n\n**Iron-rich foods:**\n\n1. Lentils (in the Lentil and Vegetable Stew) - provide plant protein, iron, and slow-release carbohydrates.\n2. Chicken (in the Chicken and Rice Soup) - likely contains iron, although the exact amount is not specified.\n\n**Vitamin C-rich foods:**\n\n1. Lemon (optional in the Chicken and Rice Soup) - contributes vitamin C to the soup.\n2. Spinach (in the Lentil and Vegetable Stew) - a rich source of iron and also contains vitamin C.\n3. Tomatoes (in the Lentil and Vegetable Stew) - a good source of vitamin C.\n4. Cherry tomatoes (optional topping for the Baked Sweet Potato with Cottage Cheese) - a rich source of vitamin C.\n\nThese foods can help provide essential nutrients like iron and vitamin C, which are crucial for maintaining healthy red blood cells and overall well-being.",
+      "response_time": 1.3347837924957275,
+      "search_time": 0.70979905128479,
+      "generation_time": 0.6249847412109375,
+      "tokens": 1020,
+      "cost": 6.63e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 1,
+        "relevance": 4,
+        "completeness": 4,
+        "clarity": 5
+      },
+      "avg_quality": 3.5
+    },
+    {
+      "query": "low-fat high-fiber meals",
+      "category": "Nutritional Query",
+      "explanation": "System should recommend dishes emphasizing fiber content with minimal fat",
+      "success": true,
+      "answer": "Based on the provided context, the following meals are considered low-fat high-fiber options:\n\n1. **Mediterranean Chickpea Power Bowl**: This meal prioritizes plant protein, whole grains, and polyphenol-rich produce. It contains chickpeas, farro or quinoa, cucumber, tomatoes, olives, red onion, greens, and a feta-lemon-oregano dressing. With its emphasis on fiber-rich produce and whole grains, this meal is a low-fat high-fiber option.\n\n2. **Tofu Veggie Stir-Fry with Cauliflower Rice**: This vegan meal features pressed tofu and mixed vegetables served over cauliflower rice, reducing refined carbohydrates. It contains broccoli, snap peas, bell peppers, carrots, ginger, garlic, tamari, and cauliflower. As a low-carb base with high fiber content, this meal is also a low-fat high-fiber option.\n\nBoth of these meals are rich in fiber and relatively low in fat, making them suitable choices for those looking for low-fat high-fiber meal options.",
+      "response_time": 1.3671844005584717,
+      "search_time": 0.6965782642364502,
+      "generation_time": 0.6706061363220215,
+      "tokens": 1035,
+      "cost": 6.727499999999998e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 1,
+        "relevance": 3,
+        "completeness": 3,
+        "clarity": 5
+      },
+      "avg_quality": 3.0
+    },
+    {
+      "query": "traditional Filipino comfort foods",
+      "category": "Cultural Exploration",
+      "explanation": "System should understand Filipino cultural dishes with significance and comfort associations",
+      "success": true,
+      "answer": "Traditional Filipino comfort foods are often associated with Adobo, Bibingka, and Sinigang. These dishes evoke feelings of warmth, togetherness, and home-style comfort. \n\n- Adobo, the unofficial national dish, is prized for its savory-sour balance and ingenious simplicity, making it a staple comfort food for many Filipinos.\n- Bibingka, a traditional rice cake, is a festive treat often enjoyed during Christmas dawn masses and symbolizes home-style comfort, neighborhood gatherings, and ancestral technique.\n- Sinigang, a tangy Filipino soup, is a palate-cleansing staple celebrated for its bright, refreshing sourness and savory depth, providing rainy-day solace and a daily ritual that feels both bracing and comforting.\n\nThese dishes are deeply rooted in Filipino culture and embody the values of thrift, resilience, and resourcefulness, making them quintessential comfort foods in the Philippines.",
+      "response_time": 1.3231596946716309,
+      "search_time": 0.7072148323059082,
+      "generation_time": 0.6159448623657227,
+      "tokens": 1135,
+      "cost": 7.377499999999999e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 2,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 1
+      },
+      "avg_quality": 2.5
+    },
+    {
+      "query": "authentic Thai street food dishes",
+      "category": "Cultural Exploration",
+      "explanation": "System should identify Thai dishes commonly sold by street vendors with authentic preparation",
+      "success": true,
+      "answer": "Based on the provided context, the following are authentic Thai street food dishes:\n\n1. **Pad Thai**: A stir-fry of rice noodles with eggs, tofu, shrimp, tamarind, fish sauce, and palm sugar, garnished with peanuts, lime, and crunchy bean sprouts. It showcases Thailand's flavor harmony and approachable, lively cooking style.\n\n2. **Pad See Ew**: A stir-fry of wide rice noodles with Chinese broccoli, eggs, and a choice of protein, caramelized in a wok with dark soy sauce for smoky depth. It's a hallmark of Thai street cuisine and national identity.\n\n3. **Gaeng Keow Wan (Green Curry)**: While not strictly a street food, Green Curry is a popular dish served in homes and restaurants, but it's more commonly associated with the home setting in Thai culture. However, it is a well-known and beloved dish in Thailand and has its roots in street food.",
+      "response_time": 1.305579423904419,
+      "search_time": 0.694932222366333,
+      "generation_time": 0.6106472015380859,
+      "tokens": 984,
+      "cost": 6.395999999999999e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 5,
+        "relevance": 5,
+        "completeness": 3,
+        "clarity": 5
+      },
+      "avg_quality": 4.5
+    },
+    {
+      "query": "ceremonial Indian dishes for celebrations",
+      "category": "Cultural Exploration",
+      "explanation": "System should recognize Indian dishes with cultural/religious significance used in festivities",
+      "success": true,
+      "answer": "Based on the provided context, the ceremonial Indian dishes for celebrations are:\n\n1. **Biryani**: A festive centerpiece across regions and celebrations, Biryani is a celebratory dish that unites textures and flavors through patient cooking and lavish seasoning. It is often served with raita.\n\nThese dishes are perfect for special occasions and are deeply rooted in Indian culture. They bring people together and are often served at family gatherings, weddings, and other celebrations.",
+      "response_time": 1.2261371612548828,
+      "search_time": 0.7192251682281494,
+      "generation_time": 0.5069119930267334,
+      "tokens": 792,
+      "cost": 5.1479999999999995e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 3,
+        "relevance": 4,
+        "completeness": 2,
+        "clarity": 2
+      },
+      "avg_quality": 2.75
+    },
+    {
+      "query": "dishes that can be grilled",
+      "category": "Cooking Method",
+      "explanation": "System should identify foods suitable for grilling as cooking method",
+      "success": true,
+      "answer": "Based on the provided context, the following dishes can be grilled:\n\n1. Tandoori Chicken: This traditional Indian dish is typically roasted in a tandoor, which is essentially a high-heat clay oven, imparting a smoky flavor to the chicken. However, the context suggests that it can also be grilled.\n2. Grilled Chicken Buddha Bowl: This contemporary dish features grilled chicken breast as a key component, making it a clear example of a dish that can be grilled.\n3. Grilled Salmon with Broccolini: As its name suggests, this healthy main dish involves grilling the salmon fillet to achieve a crispy skin and a delicately cooked interior.\n4. Tandoori Chicken is the only option from the list that can be grilled in a traditional sense. However, the first option from the list actually can be grilled in addition to the other three.",
+      "response_time": 1.3353230953216553,
+      "search_time": 0.7021970748901367,
+      "generation_time": 0.6331260204315186,
+      "tokens": 959,
+      "cost": 6.233499999999999e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 3,
+        "relevance": 3,
+        "completeness": 3,
+        "clarity": 5
+      },
+      "avg_quality": 3.5
+    },
+    {
+      "query": "one-pot meals requiring minimal cleanup",
+      "category": "Cooking Method",
+      "explanation": "System should find dishes cooked entirely in one vessel with simple preparation",
+      "success": true,
+      "answer": "Based on the context provided, the one-pot meals that require minimal cleanup are:\n\n1. Arroz con Pollo: This dish cooks chicken and rice together with sofrito, peppers, peas, and spices into a fragrant, unified pot. The one-pot method preserves juices and tenderness, creating comforting cohesion with minimal cleanup.\n\n2. Hot Pot (without sauces): While Hot Pot typically involves multiple components at the table, the cooking process itself can be a one-pot meal if you simmer the broth and cook the ingredients directly in it, with minimal cleanup required.\n\nNote that the Cornbread and Chili recipe involves two separate dishes, chili and cornbread, and therefore does not meet the criteria for minimal cleanup as a one-pot meal.",
+      "response_time": 1.2803504467010498,
+      "search_time": 0.720172643661499,
+      "generation_time": 0.5601778030395508,
+      "tokens": 900,
+      "cost": 5.85e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 5,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 2
+      },
+      "avg_quality": 3.5
+    },
+    {
+      "query": "no-cook fresh preparations",
+      "category": "Cooking Method",
+      "explanation": "System should suggest dishes requiring no heat/cooking, using fresh raw ingredients",
+      "success": true,
+      "answer": "Based on the provided context, there are no specific \"no-cook fresh preparations\" listed for the mentioned dishes. \n\nHowever, I can infer a few no-cook elements from the given information:\n\n1. The Grilled Chicken Buddha Bowl has a lemon-tahini or yogurt herb dressing, which can be prepared without cooking. Additionally, the ingredients like avocado, mixed greens, and herbs can be used in a no-cook format.\n\n2. The Hot Pot features dipping sauces like sesame or chili, which can be prepared without cooking. These sauces are likely no-cook condiments.\n\n3. The Mac and Cheese does not have any notable no-cook elements, as it involves cooking pasta and making a cheese sauce with a roux and milk.\n\nKeep in mind that while these components can be prepared without cooking, the overall dishes still require some form of heat application to assemble or finish them.",
+      "response_time": 1.3375942707061768,
+      "search_time": 0.7019295692443848,
+      "generation_time": 0.635664701461792,
+      "tokens": 966,
+      "cost": 6.279e-05,
+      "retrieved_docs": 3,
+      "error": null,
+      "quality_scores": {
+        "accuracy": 3,
+        "relevance": 3,
+        "completeness": 3,
+        "clarity": 5
+      },
+      "avg_quality": 3.5
+    }
+  ]
+}
